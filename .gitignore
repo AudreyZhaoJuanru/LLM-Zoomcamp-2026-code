@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+models/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+faq.db*
+*.db
+*.db-shm
+*.db-wal
